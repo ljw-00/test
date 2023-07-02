@@ -22,6 +22,8 @@ public class Node {
         next = null;
     }
 
+    // test
+
     // Getter, Setter
     // public int getKey() {
     //     return this.key;
